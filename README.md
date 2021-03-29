@@ -1,3 +1,5 @@
+# fix bug: remove warning "Each child in a list should have a unique 'key' prop"
+
 # react-native-shadow
 [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url]
 ---
